@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://www.youtube.com/@khajurbhai_fan" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/yash-prajapati-b8b1802bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://fb.com/Yash Prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.facebook.com/people/Yash-Prajapati/pfbid0HYm6rXgM9aTGxQXHffCoboSaaNzLzYCaEJgv6WDa2zvwzP8UQE8rEJ1mLtFyLCqxl/?rdid=BCvDm7U3um81Pmvu&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1XCpqmz3Le%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/yp_2471/profilecard/?igsh=MTh4YTl2bmMyZ2ZjYQ%3D%3D" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
